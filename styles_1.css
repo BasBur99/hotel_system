@@ -1,0 +1,54 @@
+a{
+text-decoration: none;
+}
+.title{
+text-align: center;
+}
+.panel-input{
+font-size: 12rem;
+font-weight: bold;
+text-align: center;
+}
+.panel-input a:hover{
+color: #990045;
+}
+.footer {
+position: absolute;
+left: 0;
+bottom: 0;
+width: 100%;
+height: 110px;
+color:white;
+font-style: italic;
+font-size: 1.5rem;
+}
+.footer .title a:hover{
+color:blue;
+}
+.input{
+text-align: center;
+margin: 2%;
+}
+.signin{
+margin-top: 15%;
+}
+.button input, .button a{
+background-color:rgb(129, 129, 179);
+width: 25%;
+font-size: 3rem;
+}
+.button input:hover, .button a:hover{
+background-color:rgb(201, 201, 224);
+}
+.param input{
+font-size: 2rem;
+}
+select{
+font-size: 1.5em;
+}
+.record{
+font-size: 1.5em;
+}
+.record a:hover{
+color:rgb(45, 212, 59);
+}
